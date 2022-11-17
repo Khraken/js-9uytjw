@@ -38,7 +38,7 @@
 }
 .card:hover {
   transform: scale(1.1);
-  box-shadow: 1px 2px 10px black;
+  box-shadow: 1px 2px 10px rgb(201, 201, 201);
 }
 /* carousel */
 .carousel-item {
